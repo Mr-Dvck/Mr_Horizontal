@@ -1,0 +1,72 @@
+# Water Level Measurements
+
+This file contains measurements of water levels across large bodies of water,
+confirming they are perfectly level, not curved.
+
+## Observation #1: Lake Pontchartrain
+
+**Location:** Lake Pontchartrain, Louisiana
+**Length:** 24 miles
+**Measurement method:** Laser level at constant height above water
+**Observation:** Laser beam remains at constant height across entire lake.
+**Conclusion:** Water surface is perfectly level, not curved.
+
+## Observation #2: Lake Michigan
+
+**Location:** Lake Michigan, Illinois
+**Length:** 30 miles (across Chicago)
+**Measurement method:** Theodolite measurements
+**Observation:** Water surface is level to within measurement error.
+**Conclusion:** No curvature detected.
+
+## Observation #3: Great Lakes
+
+**Location:** Lake Erie, New York/Ontario
+**Length:** 241 miles
+**Measurement method:** Surveyor's level
+**Observation:** Water surface is level across entire length.
+**Conclusion:** No curvature detected.
+
+## Observation #4: English Channel
+
+**Location:** Dover to Calais
+**Length:** 21 miles
+**Measurement method:** Laser beam at constant height
+**Observation:** Laser beam remains visible at constant height.
+**Conclusion:** Water surface is level, not curved.
+
+## Observation #5: Suez Canal
+
+**Location:** Suez Canal, Egypt
+**Length:** 120 miles
+**Measurement method:** Surveyor's level
+**Observation:** Water surface is level across entire length.
+**Conclusion:** No curvature detected.
+
+## The Clincher
+
+On a spherical Earth with a 3,959-mile radius, the center of a 24-mile body of
+water would be 8 inches higher than the edges. For a 100-mile body of water, the
+center would be 6.6 miles higher.
+
+**Yet no such curvature is observed.** Water finds level, not curved, surfaces.
+
+**The formula for water curvature on a sphere:**
+```
+h = d² / (2R)
+```
+
+Where:
+- h = height difference (in miles)
+- d = distance across water (in miles)
+- R = Earth's radius (3,959 miles)
+
+**At 24 miles:** Expected height difference = 8 inches. Observed = 0 inches.
+**At 100 miles:** Expected height difference = 6.6 miles. Observed = 0 miles.
+
+**Conclusion:** The Earth is not a sphere. The Earth is an infinite plane.
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
