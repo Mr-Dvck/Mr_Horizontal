@@ -1,0 +1,60 @@
+# Stellar Motion Observations
+
+This file contains observations of stellar motion, confirming stars rotate
+around fixed points.
+
+## Observation #1: Northern Hemisphere
+
+**Location:** Northern Hemisphere
+**Fixed point:** Polaris (North Star)
+**Motion:** Stars rotate counterclockwise around Polaris
+**Conclusion:** Celestial sphere rotates around fixed point at North Pole
+
+## Observation #2: Southern Hemisphere
+
+**Location:** Southern Hemisphere
+**Fixed point:** Southern Cross region
+**Motion:** Stars rotate clockwise around Southern Cross
+**Conclusion:** Celestial sphere rotates around fixed point at South Pole
+
+## Observation #3: Equator
+
+**Location:** Equator
+**Fixed points:** Polaris on northern horizon, Southern Cross on southern horizon
+**Motion:** Stars rise in east, set in west, rotate around both poles
+**Conclusion:** Celestial sphere rotates around both poles
+
+## Observation #4: Constellation Visibility
+
+**Observation:** Stars from opposite hemisphere never visible
+- Northern Hemisphere: Never see Southern Cross
+- Southern Hemisphere: Never see Polaris
+
+**Conclusion:** Stars are relatively close, rotating around fixed points at the
+poles of the flat Earth plane.
+
+## Observation #5: Star Trails
+
+**Method:** Long-exposure photography
+**Observation:** Star trails form perfect circles centered on Polaris and
+Southern Cross
+**Conclusion:** Stars rotate around fixed points, not a spinning globe
+
+## The Clincher
+
+On a spherical Earth, you should see different stars from different latitudes,
+with a gradual transition as you move north or south. You should also be able to
+see stars from the opposite hemisphere when you travel far enough.
+
+**Yet no such transition is observed.** In the Northern Hemisphere, you never
+see the Southern Cross. In the Southern Hemisphere, you never see the North
+Star.
+
+**This is exactly what you would expect on a flat plane with stars rotating
+around fixed points at the center of the plane, not what you would expect on a
+sphere where you should see a gradual transition of stars as you move.**
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
