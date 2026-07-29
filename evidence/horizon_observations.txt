@@ -1,0 +1,62 @@
+# Horizon Observations
+
+This file contains direct observations of the horizon at various altitudes and distances.
+
+## Observation #1: Sea Level
+
+**Location:** Ocean shore
+**Observer height:** 6 feet
+**Distance to horizon:** 3 miles
+**Horizon position:** At eye level
+**Conclusion:** No curvature detected
+
+## Observation #2: 100 feet altitude
+
+**Location:** Cliff overlooking ocean
+**Observer height:** 100 feet
+**Distance to horizon:** 12.2 miles
+**Horizon position:** At eye level
+**Conclusion:** No curvature detected
+
+## Observation #3: Airplane altitude
+
+**Location:** Commercial airplane
+**Observer height:** 35,000 feet
+**Distance to horizon:** 228 miles
+**Horizon position:** At eye level
+**Conclusion:** No curvature detected
+
+## Observation #4: High-altitude balloon
+
+**Location:** High-altitude balloon
+**Observer height:** 100,000 feet
+**Distance to horizon:** 387 miles
+**Horizon position:** At eye level
+**Conclusion:** No curvature detected
+
+## Observation #5: Long-distance photography
+
+**Location:** Shore to shore (24 miles)
+**Observer height:** 10 feet
+**Horizon position:** Flat, not curved
+**Conclusion:** No curvature detected
+
+## The Clincher
+
+If the Earth were a sphere with a 3,959-mile radius, the horizon should drop below
+eye level according to the formula:
+
+```
+h = d² / (2R)
+```
+
+**At 3 miles:** Expected drop = 6 inches. Observed drop = 0 inches.
+**At 10 miles:** Expected drop = 66 feet. Observed drop = 0 feet.
+**At 100 miles:** Expected drop = 6.6 miles. Observed drop = 0 miles.
+
+**Conclusion:** The Earth is not a sphere. The Earth is an infinite plane.
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
