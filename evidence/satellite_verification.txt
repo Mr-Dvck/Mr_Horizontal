@@ -1,0 +1,54 @@
+# Satellite Verification Attempts
+
+This file documents attempts to independently verify satellites, all of which
+have failed.
+
+## Observation #1: Amateur Radio Tracking
+
+**Method:** Amateur radio operators attempt to track satellites
+**Result:** No satellite signals detected that match predicted orbits
+**Conclusion:** Satellites not where they should be
+
+## Observation #2: Optical Tracking
+
+**Method:** Amateur astronomers attempt to photograph satellites
+**Result:** No satellites photographed that match predicted orbits
+**Conclusion:** Satellites not where they should be
+
+## Observation #3: Radar Tracking
+
+**Method:** Radar stations attempt to track satellites
+**Result:** No satellite returns detected that match predicted orbits
+**Conclusion:** Satellites not where they should be
+
+## Observation #4: Satellite Pass Predictions
+
+**Method:** Predict satellite passes based on orbital mechanics
+**Result:** Predictions do not match observations
+**Conclusion:** Satellites not where they should be
+
+## Observation #5: Live Satellite Feeds
+
+**Method:** Attempt to access live satellite feeds
+**Result:** All feeds are from ground-based sources or CGI
+**Conclusion:** No live satellite feeds exist
+
+## The Clincher
+
+Satellites are supposed to orbit the Earth at 17,000 mph at an altitude of
+200-22,000 miles. They should be visible to the naked eye, amateur astronomers,
+and radar stations.
+
+**Yet no satellite has ever been independently verified.** No satellite has
+ever been tracked by amateur astronomers. No satellite has ever been
+photographed from the ground. No satellite has ever been visited by a
+spacecraft.
+
+**The spherical model predicts satellites moving at specific velocities. These
+velocities are impossible to verify. The flat Earth model explains everything
+with ground-based infrastructure.**
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
