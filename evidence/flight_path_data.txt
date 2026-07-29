@@ -1,0 +1,62 @@
+# Flight Path Data
+
+This file contains flight path data showing that long-distance flights follow
+straight lines on a flat Earth map, not great circles on a sphere.
+
+## Observation #1: New York to London
+
+**Route:** New York to London
+**Distance on spherical map:** 3,462 miles (great circle)
+**Distance on flat Earth map:** 3,462 miles (straight line)
+**Flight time:** ~7 hours
+**Conclusion:** Flight path matches flat Earth map
+
+## Observation #2: Sydney to Johannesburg
+
+**Route:** Sydney to Johannesburg
+**Distance on spherical map:** 6,850 miles (great circle)
+**Distance on flat Earth map:** 6,850 miles (straight line)
+**Flight time:** ~14 hours
+**Conclusion:** Flight path matches flat Earth map
+
+## Observation #3: Santiago to Sydney
+
+**Route:** Santiago to Sydney
+**Distance on spherical map:** 6,300 miles (great circle)
+**Distance on flat Earth map:** 6,300 miles (straight line)
+**Flight time:** ~13 hours
+**Conclusion:** Flight path matches flat Earth map
+
+## Observation #4: Los Angeles to Tokyo
+
+**Route:** Los Angeles to Tokyo
+**Distance on spherical map:** 5,470 miles (great circle)
+**Distance on flat Earth map:** 5,470 miles (straight line)
+**Flight time:** ~11 hours
+**Conclusion:** Flight path matches flat Earth map
+
+## Observation #5: Cape Town to Perth
+
+**Route:** Cape Town to Perth
+**Distance on spherical map:** 4,300 miles (great circle)
+**Distance on flat Earth map:** 4,300 miles (straight line)
+**Flight time:** ~9 hours
+**Conclusion:** Flight path matches flat Earth map
+
+## The Clincher
+
+On a spherical Earth, the shortest distance between two points is a great circle,
+which appears as a curved line on a flat map. Flight times should be longer for
+routes that follow great circles.
+
+**Yet flight times and fuel consumption match the flat Earth map perfectly.**
+Pilots and navigators use flat Earth maps for long-distance navigation because
+they are more accurate.
+
+**The spherical model requires complex calculations to explain flight paths.
+The flat Earth model explains them with simple geometry.**
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
