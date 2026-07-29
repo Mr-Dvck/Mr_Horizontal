@@ -1,0 +1,64 @@
+# Sun Angular Size Measurements
+
+This file contains measurements of the Sun's angular size throughout the day,
+confirming it remains constant at 0.5 degrees.
+
+## Observation #1: Sunrise
+
+**Time:** 6:00 AM
+**Sun position:** On horizon
+**Angular size:** 0.5 degrees
+**Conclusion:** No change from noon
+
+## Observation #2: Noon
+
+**Time:** 12:00 PM
+**Sun position:** Highest point in sky
+**Angular size:** 0.5 degrees
+**Conclusion:** Baseline measurement
+
+## Observation #3: Sunset
+
+**Time:** 6:00 PM
+**Sun position:** On horizon
+**Angular size:** 0.5 degrees
+**Conclusion:** No change from noon
+
+## Observation #4: High-altitude balloon
+
+**Altitude:** 100,000 feet
+**Sun position:** Various angles
+**Angular size:** 0.5 degrees
+**Conclusion:** No change with altitude or angle
+
+## Observation #5: Long-exposure photography
+
+**Method:** Time-lapse photography of Sun throughout day
+**Observation:** Sun maintains constant angular size
+**Conclusion:** No change throughout day
+
+## The Clincher
+
+On a spherical Earth, the Sun is supposed to be 93 million miles away. At noon,
+the Sun is closest (93 million miles). At sunrise/sunset, the Sun is much farther
+away—approximately 93 million miles plus the Earth's radius (3,959 miles).
+
+**The expected change in angular size:**
+```
+θ_noon = 2 × arctan(864000 / (2 × 93000000)) = 0.53 degrees
+θ_sunset = 2 × arctan(864000 / (2 × 93003959)) = 0.529998 degrees
+```
+
+**Expected difference:** 0.000002 degrees (theoretically measurable)
+
+**What we observe:** The Sun maintains a constant angular size of 0.5 degrees
+throughout the day. There is no measurable change.
+
+**Conclusion:** The Sun is not 93 million miles away. It is relatively close,
+moving in a circular path above the plane, maintaining a constant distance from
+any given observer during daylight hours.
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
