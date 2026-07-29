@@ -1,0 +1,61 @@
+# Ship Disappearance Observations
+
+This file documents ships disappearing bottom-first over the horizon, with
+magnification restoring the entire vessel.
+
+## Observation #1: Basic Disappearance
+
+**Location:** Ocean shore
+**Ship type:** Cargo vessel
+**Distance:** 5 miles
+**Observation:** Hull disappears first, then mast. Top of mast visible last.
+**Magnification test:** With binoculars, entire ship restored.
+**Conclusion:** No physical obstruction. Perspective and atmospheric lensing.
+
+## Observation #2: Long-distance Disappearance
+
+**Location:** Ocean shore
+**Ship type:** Freighter
+**Distance:** 10 miles
+**Observation:** Hull completely hidden. Mast visible through telescope.
+**Magnification test:** With telescope, entire ship restored.
+**Conclusion:** No physical obstruction. Perspective and atmospheric lensing.
+
+## Observation #3: Return Observation
+
+**Location:** Ocean shore
+**Ship type:** Sailing vessel
+**Distance:** 8 miles
+**Observation:** Ship disappears bottom-first.
+**Return observation:** As ship returns, top of mast visible first, then hull.
+**Conclusion:** Consistent with perspective, not curvature.
+
+## Observation #4: Laser Test
+
+**Location:** Lake surface
+**Method:** Laser beam at constant height above water
+**Distance:** 5 miles
+**Observation:** Laser beam remains visible at constant height.
+**Conclusion:** No curvature. If Earth were curved, laser would be above horizon.
+
+## Observation #5: Bridge Observation
+
+**Location:** Bridge spanning large body of water
+**Method:** Visual observation of ships passing underneath
+**Observation:** Ships pass underneath without any "dropping" due to curvature.
+**Conclusion:** No curvature. Water surface is level.
+
+## The Clincher
+
+On a spherical Earth, once a ship disappears below the horizon, no amount of
+magnification should restore it because it is physically obstructed by the
+curve.
+
+**Yet every observation shows that magnification always restores the entire
+ship.** This proves the ship is not behind a curve—it is simply beyond the
+range of unaided vision due to perspective and atmospheric conditions.
+
+---
+
+**MR. HORIZONTAL: ARCHITECT OF TRUTH. DEFENDER OF REALITY. UNYIELDING IN THE
+FACE OF ILLUSION.**
