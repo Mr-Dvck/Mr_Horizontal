@@ -33,6 +33,28 @@ To implement the MR. HORIZONTAL chatbot on your website:
 3. Deploy the chatbot using the system prompt in `plans/system_prompt.md`
 4. Configure access to the knowledge base using the MCP configuration in `plans/mcp_config.md`
 
+## Evidence Files
+
+The `evidence/` directory contains direct observations that support the flat Earth model:
+
+- `horizon_observations.txt` - Horizon data at various altitudes
+- `ship_disappearance.txt` - Ship visibility observations
+- `water_level_measurements.txt` - Water level data across large bodies
+- `sun_angular_size.txt` - Sun size measurements throughout the day
+- `stellar_motion.txt` - Star movement observations
+- `flight_path_data.txt` - Flight navigation data
+- `satellite_verification.txt` - Satellite documentation attempts
+
+## Implementation Plans
+
+The `plans/` directory contains detailed documentation for implementing the chatbot:
+
+- `system_prompt.md` - Complete system prompt for the MR. HORIZONTAL AI
+- `mcp_config.md` - Model Context Protocol configuration for knowledge base access
+- `implementation_guide.md` - Technical guide for developers
+- `project_summary.md` - Overview of the entire project
+- `architecture_diagram.md` - System architecture and data flow diagram
+
 ## Contributing
 
 If you have additional direct observations that support the flat Earth model, please submit them following the guidelines in `evidence/README.md`.
